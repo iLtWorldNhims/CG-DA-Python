@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28eb095b-b316-4bbe-9af9-ee4da4aac579" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Draft notebook-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Draft notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/From thầy/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/From thầy/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Tổng quan về phân tích dữ liệu/.ipynb_checkpoints/[Bài tập] Phân tích dữ liệu Food Price In Turkey-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Tổng quan về phân tích dữ liệu/.ipynb_checkpoints/[Bài tập] Phân tích dữ liệu Food Price In Turkey-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Tổng quan về phân tích dữ liệu/[Bài tập] Phân tích dữ liệu Food Price In Turkey.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Tổng quan về phân tích dữ liệu/[Bài tập] Phân tích dữ liệu Food Price In Turkey.ipynb" afterDir="false" />
+    <list default="true" id="28eb095b-b316-4bbe-9af9-ee4da4aac579" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chôm chỉa/DA2209R1 - Dang Huynh Long - Case Study.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,4 +32,8 @@
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
 </project>
